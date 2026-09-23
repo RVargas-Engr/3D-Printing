@@ -1,3 +1,5 @@
+<p><img src=20260922_183044.jpg width=500></p>
+
 ## Overview
 This holder provides a rigid wall attachment for the "Switchbot blind" product, which otherwise can have
 a tendency to wrap itself around the mini blind wand if there is too much resistance in the wand mechanism.
